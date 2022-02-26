@@ -34,6 +34,7 @@ class Centroid{
     }
 }
 class DataPoint{
+// Holds data points
     constructor(x,y){
         this.x = x;
         this.y = y;
